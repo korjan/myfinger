@@ -1,11 +1,10 @@
 {
   "Footer": {
-    "terms.v4": "new",
     "press": "Press room",
     "privacy": "Privacy policy",
-    "cookie": "Cookie consent",
+    "cookie": "Cookie monster consent",
     "release": "Release notes",
     "security": "changed",
-    "rightsReserved": "All rights reserved"
+    "rightsReservedForYou": "All rights reserved for you"
   }
 }
